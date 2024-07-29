@@ -7,7 +7,7 @@
 
 ⚐ Based in Hrodna, Belarus
 
-ϟ Currently working on LUMEN (a logical based game on Unity)
+ϟ Currently working on Revv (a arcade low-poly racing game on Unity)
 
 
 
